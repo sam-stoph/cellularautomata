@@ -1,0 +1,19 @@
+Welcome to our cellular automata program!
+
+Before we begin, be sure you have a virtual environment running and have Python3 as well as the following installed: 
+
+- Numpy
+- Pygame
+
+After you have all this done, you can run the program you wish to. 
+
+There are 2 programs available as a part of this project, which are separated into two different directories. If you 
+wish to run the Elementary Cellular Automata implementation, navigate to the elementary_automata directory. On the 
+other hand, if you want to run the Brian's Brain simulation, you'll want to navigate into the brians_brain directory. 
+
+Once you are in the preffered directory, run the main.py file to get started(the recommended command is: python3 main.py). 
+
+Instructions on how to use each program will be printed in the terminal. 
+
+
+Most importantly please have fun!
